@@ -1,9 +1,118 @@
 # jQuery Methods
 
-Collection of jQuery methods
+
+Here is the collection of all jQuery methods
+
+
+### @ Selectors
 
 
 
+### @ Method Chaining
+
+
+
+### @ Event Binding
+
+
+
+### @ Prevention and Propagation
+
+
+
+### @ Iteration on Elements
+
+
+
+### @ Addition of Elements
+
+
+
+### @ Removal of Elements
+
+
+
+### @ Replacement of Elements
+
+
+
+### @ Wrapping of Elements
+
+
+
+### @ Content of Elements
+
+
+
+### @ Attribute of Elements
+
+
+
+### @ Page Scroll
+
+
+
+### @ CSS Manipulation
+
+
+
+### @ Dimension
+
+
+
+### @ Coordinates
+
+
+
+### @ Ancestors
+
+
+
+### @ Descendants
+
+
+
+### @ Siblings
+
+
+
+### @ Filters
+
+
+
+### @ Event Object
+
+
+
+### @ Animation Effects
+
+
+
+### @ Data Storage
+
+
+
+### @ Queue
+
+
+
+### @ Object Identity
+
+
+
+### @ Arrays
+
+
+
+### @ Miscellaneous
+
+
+
+### Resource urls
+
+[jQuery.com](http://api.jquery.com/)
+
+[w3schools.com](http://www.w3schools.com/jquery/)
 
 
 # License ([MIT](https://opensource.org/licenses/MIT))
