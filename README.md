@@ -1,117 +1,115 @@
 # jQuery Methods
 
-
-Here is the collection of all jQuery methods
-
+Here is a collection of jQuery methods
 
 ### @ Selectors
 
-
+Check [Selectors](Selectors.md)
 
 ### @ Method Chaining
 
-
+Check [Method Chaining](Method-chaining.md)
 
 ### @ Event Binding
 
-
+Check [Event Binding](Event-binding.md)
 
 ### @ Prevention and Propagation
 
-
+Check [Prevention and Propagation](Prevention-propagation.md)
 
 ### @ Iteration on Elements
 
-
+Check [Iteration on Elements](Iteration-on-elements.md)
 
 ### @ Addition of Elements
 
-
+Check [Addition of Elements](Addition-of-elements.md)
 
 ### @ Removal of Elements
 
-
+Check [Removal of Elements](Removal-of-elements.md)
 
 ### @ Replacement of Elements
 
-
+Check [Replacement of Elements](Replacement-of-elements.md)
 
 ### @ Wrapping of Elements
 
-
+Check [Wrapping of Elements](Wrapping-of-elements.md)
 
 ### @ Content of Elements
 
-
+Check [Content of Elements](Content-of-elements.md)
 
 ### @ Attribute of Elements
 
-
+Check [Attribute of Elements](Attribute-of-elements.md)
 
 ### @ Page Scroll
 
-
+Check [Page Scroll](Page-scroll.md)
 
 ### @ CSS Manipulation
 
-
+Check [CSS Manipulation](CSS-manipulation.md)
 
 ### @ Dimension
 
-
+Check [Dimension](Dimension.md)
 
 ### @ Coordinates
 
-
+Check [Coordinates](Coordinates.md)
 
 ### @ Ancestors
 
-
+Check [Ancestors](Ancestors.md)
 
 ### @ Descendants
 
-
+Check [Descendants](Descendants.md)
 
 ### @ Siblings
 
-
+Check [Siblings](Siblings.md)
 
 ### @ Filters
 
-
+Check [Filters](Filters.md)
 
 ### @ Event Object
 
-
+Check [Event Object](Event-object.md)
 
 ### @ Animation Effects
 
-
+Check [Animation Effects](Animation-effects.md)
 
 ### @ Data Storage
 
-
+Check [Data Storage](Data-storage.md)
 
 ### @ Queue
 
-
+Check [Queue](Queue.md)
 
 ### @ Object Identity
 
-
+Check [Object Identity](Object-identity.md)
 
 ### @ Arrays
 
-
+Check [Arrays](Arrays.md)
 
 ### @ Miscellaneous
 
-
+Check [Miscellaneous](Miscellaneous.md)
 
 ### Resource urls
 
 [jQuery.com](http://api.jquery.com/)
-
+<br>
 [w3schools.com](http://www.w3schools.com/jquery/)
 
 
